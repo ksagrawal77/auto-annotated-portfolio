@@ -14,12 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Welcome to the world of Rinkesh and Mahima Patni!
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Where architecture meets artistry and every space tells a story. With a passion for creating innovative designs, we specialize in crafting bespoke homes and commercial spaces that blend functionality with aesthetic brilliance. From concept to completion, our work reflects meticulous attention to detail, ensuring each project is a masterpiece tailored to the client’s unique vision. Whether you're dreaming of a cozy home or a cutting-edge commercial hub, Patnis transform ideas into inspiring realities, redefining how spaces are designed and experienced.
     styles:
       self:
         height: auto
