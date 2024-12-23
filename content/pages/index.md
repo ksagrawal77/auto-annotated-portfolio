@@ -14,9 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Welcome to the world of Rinkesh and Mahima Patni!
+      Welcome to the Design Horizon!
     subtitle: >-
-      Where architecture meets artistry and every space tells a story. With a passion for creating innovative designs, we specialize in crafting bespoke homes and commercial spaces that blend functionality with aesthetic brilliance. From concept to completion, our work reflects meticulous attention to detail, ensuring each project is a masterpiece tailored to the client’s unique vision. Whether you're dreaming of a cozy home or a cutting-edge commercial hub, Patnis transform ideas into inspiring realities, redefining how spaces are designed and experienced.
+      Where architecture meets artistry and every space tells a story. With a passion for creating innovative designs, we specialize in crafting bespoke homes and commercial spaces that blend functionality with aesthetic brilliance. From concept to completion, our work reflects meticulous attention to detail, ensuring each project is a masterpiece tailored to the client’s unique vision. Whether you're dreaming of a cozy home or a cutting-edge commercial hub, Patnis and Kasliwals transform ideas into inspiring realities, redefining how spaces are designed and experienced.
     styles:
       self:
         height: auto
